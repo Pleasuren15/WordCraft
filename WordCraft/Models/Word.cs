@@ -19,5 +19,5 @@ public class Word
     public Category Category { get; set; }
 
     [JsonPropertyName(nameof(Langauge))]
-    public Langauge Langauge { get; set; }
+    public LanguageCode Langauge { get; set; }
 }
