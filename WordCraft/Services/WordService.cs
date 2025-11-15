@@ -16,7 +16,12 @@ public class WordService : IWordService
     {
         var words = GetWordsFromDataSource(startingAlphabet: startingAlphabet);
 
-        throw new NotImplementedException("Method Not Fully Implemented");
+        words = category == Category.All ? words : words.Where(word => word.Category == category);
+        words = words.Where(word => word.Length <= wordLength).Take(numberOfWords);
+        words = wordCase == WordCase.Upper ? words.Select(word => { word.FullWord = word.FullWord.ToUpper(); return word; }) :
+                                        words.Select(word => { word.FullWord = word.FullWord.ToLower(); return word; });
+
+        return words;
     }
 
     /// <summary>
