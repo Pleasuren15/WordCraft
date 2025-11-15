@@ -27,5 +27,6 @@ public enum Alphabet
     W = 22,
     X = 23,
     Y = 24,
-    Z = 25
+    Z = 25,
+    All = 26
 }

@@ -9,7 +9,7 @@ namespace WordCraft.Models;
 [ExcludeFromCodeCoverage]
 public class Word
 {
-    [JsonPropertyName(nameof(FullWord))]
+    [JsonPropertyName("word")]
     public string FullWord { get; set; } = string.Empty;
 
     [JsonPropertyName(nameof(Length))]
