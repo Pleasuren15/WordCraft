@@ -1,12 +1,5630 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WordCraft.Words
-{
-    class a_words
+﻿[
     {
+        "word": "aahed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aalii",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aapas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aargh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aarti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abaca",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abaci",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aback",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abacs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abaft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abaht",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abaka",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abamp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aband",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abase",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abash",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abask",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abaya",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abbas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abbed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abbes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abbey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abbot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abcee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abeam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abear",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abeat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abeer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abele",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abeng",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abets",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abeys",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abhor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abide",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abius",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abjad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abjud",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abled",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abler",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ables",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ablet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ablow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abmho",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abnet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abohm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aboil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aboma",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aboon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abord",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aborn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abort",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "about",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "above",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abram",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abray",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abrim",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abrin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abris",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "absey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "absit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abuna",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abune",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abura",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aburn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abuse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abuts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abuzz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abyes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abysm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "abyss",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acais",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acara",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acari",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "accas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "accha",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "accoy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "accra",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acedy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acerb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aceta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "achar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ached",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acher",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aches",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "achey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "achoo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acids",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acidy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acini",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ackee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acker",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acmes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acmic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acned",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acnes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acock",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acoel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acold",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acorn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acral",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acred",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acres",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acrid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acron",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acryl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "actas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acted",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "actin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acton",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "actor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "actus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acute",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "acyls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adage",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adapt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adawn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adaws",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adbot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "addas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "addax",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "added",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adder",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "addin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "addio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "addle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "addra",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adead",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adeem",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adept",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adhan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adhoc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adieu",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adios",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adlib",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adman",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "admen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "admin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "admit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "admix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adnex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adobe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adobo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adoon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adopt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adorb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adorn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adown",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adoze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adrad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adraw",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adred",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adret",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adrip",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adsum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aduki",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adult",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adunc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adust",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "advew",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "advts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adyta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adyts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adzed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "adzes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aecia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aedes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aeger",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aegis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aeons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aerie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aeros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aesir",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aevum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afald",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afanc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afara",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afars",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afear",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "affix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "affly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afion",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afire",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afizz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aflaj",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aflap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aflow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afoam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afoot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afoul",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afret",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afrit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "afros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "after",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aftos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "again",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agals",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agama",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agami",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agamy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agape",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agars",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agasp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agast",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agaty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agave",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agaze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agbas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agent",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aggag",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agger",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aggie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aggri",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aggro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aggry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aghas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agidi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agila",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aging",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agios",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agism",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agist",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agita",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aglee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aglet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agley",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agloo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aglow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aglus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agmas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agoge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agogo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agony",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agood",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agora",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agree",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agria",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agrin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agrum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agued",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agues",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aguey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aguna",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "agush",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aguti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahead",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aheap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahent",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahigh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahind",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahint",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahold",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahole",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahull",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ahuru",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aidas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aided",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aider",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aides",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aidoi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aidos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aiery",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aigas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aight",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ailed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aimag",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aimak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aimed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aimer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ainee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ainga",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aioli",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aired",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "airer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "airns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "airth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "airts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aisle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aitch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aitus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aiver",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aixes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aiyah",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aiyee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aiyoh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aiyoo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aizle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ajies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ajiva",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ajuga",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ajupa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ajwan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akara",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akees",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akela",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aking",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akita",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akkas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akker",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akoia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akoja",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akoya",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aksed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "akses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alaap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alack",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alala",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alamo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aland",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alane",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alang",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alant",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alapa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alaps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alarm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alary",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alata",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "albas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "albee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "albid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "album",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alcea",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alces",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alcid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alcos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aldea",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alder",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aldol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aleak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aleck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alecs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aleem",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alefs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aleft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aleph",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alert",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alews",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aleye",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alfas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "algum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alias",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alibi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alick",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alien",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alifs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "align",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alike",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alims",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aline",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alios",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alist",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alive",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aliya",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alkie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alkin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alkos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alkyd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alkyl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allay",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aller",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alley",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allod",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alloy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "allyl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "almah",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "almas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "almeh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "almes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "almud",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "almug",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alods",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloha",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "along",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloof",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alose",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aloud",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alowe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alpha",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "altar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alter",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "altho",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "altos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alula",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alums",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alumy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alure",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alurk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alvar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "alway",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amahs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amain",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amari",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amaro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amass",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amaut",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amaze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amban",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amber",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ambit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amble",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ambos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ambry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ameba",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ameer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amend",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amens",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ament",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amias",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amice",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amici",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amide",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amido",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amids",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amiga",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amigo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amino",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amins",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amirs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amiss",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amity",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amlas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amman",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ammas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ammon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ammos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amnia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amnic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amnio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amoks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amole",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "among",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amort",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amour",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amove",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amowt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amped",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ample",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amply",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ampul",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amrit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amuck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amuse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "amyls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anana",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anata",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ancho",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ancle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ancon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "andic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "andro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anear",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anele",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anent",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "angas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "angel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anger",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "angle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anglo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "angry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "angst",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anigh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anima",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anime",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "animi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anion",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anise",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anker",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ankhs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ankle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ankus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anlas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annoy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annul",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "annus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anoas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anole",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anomy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ansae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ansas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anted",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antra",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "antsy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anura",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anvil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "anyon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aorta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apace",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apage",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apaid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apart",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apayd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apeak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apeek",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apert",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apery",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apgar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aphid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aphis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apian",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aping",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apiol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apish",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apism",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apnea",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apods",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apols",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apoop",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aport",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appay",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apple",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apply",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appui",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "appuy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apres",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apron",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apsis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apsos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apted",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "apter",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aptly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aquae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aquas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "araba",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "araks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arame",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arars",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arbah",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arbas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arbor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arced",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "archi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arcos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arcus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ardeb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ardor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ardri",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aread",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "areae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "areal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arear",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "areas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "areca",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aredd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arede",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arefy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "areic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arena",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arepa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arere",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arete",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arets",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arett",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argue",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "argus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arhat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arias",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ariel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ariki",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ariot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arise",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arish",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arith",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arled",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arles",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "armed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "armer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "armet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "armil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "armor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arnas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arnis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arnut",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aroba",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aroha",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aroid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aroma",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arose",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arpas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arpen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arrah",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arras",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "array",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arret",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arris",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arrow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arroz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arsed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arsey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arsis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arson",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "artal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "artel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arter",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "artic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "artis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "artly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "artsy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aruhe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arums",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arval",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arvee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "arvos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aryls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asada",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asana",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ascon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ascot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ascus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asdic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ashed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ashen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ashes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ashet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aside",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asity",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "askar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asker",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "askew",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "askoi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "askos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aspen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asper",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aspic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aspie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aspis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aspro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "assai",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "assam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "assay",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "assed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asset",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "assez",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "assot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aster",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "astir",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "astun",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asura",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asway",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aswim",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "asyla",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ataps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ataxy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atigi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atilt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atimy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atlas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atman",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atmas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atmos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atocs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atoke",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atoks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atoll",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atoms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atomy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atony",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atopy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atria",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atrip",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "attap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "attar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "attas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atter",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "attic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "atuas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aucht",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "audad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "audax",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "audio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "audit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "augen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auger",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auges",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aught",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "augur",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aulas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aulic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auloi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aulos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aumil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aunes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aunts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aunty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aurae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aural",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aurar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auras",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aurei",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aures",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auric",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auris",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aurum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "autos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "auxin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avail",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avale",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avant",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avast",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avels",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avens",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avert",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avgas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avian",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avion",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avise",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aviso",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avize",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avoid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "avyze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "await",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awake",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "award",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aware",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awari",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awarn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awash",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awato",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awave",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aways",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awdls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aweel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aweto",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awful",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awkin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awmry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awned",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awner",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awoke",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awols",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "awork",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axels",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axial",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axiom",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axion",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axite",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axled",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axles",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axman",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axmen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axoid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "axons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayahs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayaya",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayelp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aygre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayins",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aymag",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayont",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayres",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ayrie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azide",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azido",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azlon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azoic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azole",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azote",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azoth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azuki",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azure",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azurn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azury",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azygy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azyme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "azyms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "aura",
+        "length": 4,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "alpha",
+        "length": 5,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "afghanistan",
+        "length": 11,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "albania",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "algeria",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "andorra",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "angola",
+        "length": 6,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "antigua and barbuda",
+        "length": 19,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "argentina",
+        "length": 9,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "armenia",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "australia",
+        "length": 9,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "austria",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "azerbaijan",
+        "length": 10,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "algiers",
+        "length": 7,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "andorra la vella",
+        "length": 16,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "asmara",
+        "length": 6,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "addis ababa",
+        "length": 11,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "accra",
+        "length": 5,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "athens",
+        "length": 6,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "amman",
+        "length": 5,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "astana",
+        "length": 6,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "antananarivo",
+        "length": 12,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "amsterdam",
+        "length": 9,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "abuja",
+        "length": 5,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "asunción",
+        "length": 9,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "apia",
+        "length": 4,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "ankara",
+        "length": 6,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "ashgabat",
+        "length": 8,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "abu dhabi",
+        "length": 9,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "archery",
+        "length": 7,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "aikido",
+        "length": 6,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "airsoft",
+        "length": 7,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "antelope",
+        "length": 8,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "alligator",
+        "length": 9,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "ant",
+        "length": 3,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "anchovy",
+        "length": 7,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "angelfish",
+        "length": 9,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "axolotl",
+        "length": 7,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "albatross",
+        "length": 9,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "android",
+        "length": 7,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "after effects",
+        "length": 13,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "atom",
+        "length": 4,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "android studio",
+        "length": 14,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "arch",
+        "length": 4,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "angular",
+        "length": 7,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "assembly",
+        "length": 8,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "apex legends",
+        "length": 12,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "assassin's creed",
+        "length": 16,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "animal crossing",
+        "length": 15,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "among us",
+        "length": 8,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "angry birds",
+        "length": 11,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "asphalt",
+        "length": 7,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "apex legends",
+        "length": 12,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "age of empires",
+        "length": 14,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "among us",
+        "length": 8,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "asphalt",
+        "length": 7,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "among us",
+        "length": 8,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "angry birds",
+        "length": 11,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "asphalt",
+        "length": 7,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "assassin's creed",
+        "length": 16,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "animal crossing",
+        "length": 15,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "apple",
+        "length": 5,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "amazon",
+        "length": 6,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "adobe",
+        "length": 5,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "airbnb",
+        "length": 6,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "alibaba",
+        "length": 7,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "asus",
+        "length": 4,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "accenture",
+        "length": 9,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "audi",
+        "length": 4,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "adidas",
+        "length": 6,
+        "category": "companies",
+        "language": "en"
     }
-}
+]

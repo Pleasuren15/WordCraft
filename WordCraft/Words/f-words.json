@@ -1,12 +1,4220 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WordCraft.Words
-{
-    class a_words
+﻿[
     {
+        "word": "fabbo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fabby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fable",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faced",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faces",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facto",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "facty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faddy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faded",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fader",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fades",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fadge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fados",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faena",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faery",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faffs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faffy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faggy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fagin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fagot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faiks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fails",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fains",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faint",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faire",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fairs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fairy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faith",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faker",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fakes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fakey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fakie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fakir",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "falaj",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fales",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "falls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "false",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "falsy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "famed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fames",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fancy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fands",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanga",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fango",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fangs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fanum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faqir",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farce",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farci",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farcy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fards",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fared",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fares",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "farts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fasci",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fasti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fasts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fatal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fated",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fates",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fatly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fatso",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fatty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fatwa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fauch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faugh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fauld",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fault",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fauna",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fauns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faurd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faute",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fauts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fauve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "favas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "favel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faver",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faves",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "favor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "favus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fawns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fawny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faxed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "faxes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fayed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fayer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fayne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fayre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fazed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fazes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feals",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feard",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feare",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fears",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feart",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fease",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feast",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feaze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fecal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feces",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fecht",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fecit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fecks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fedai",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fedex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feebs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feeds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feels",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feely",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feens",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feese",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feeze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fehme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feign",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feint",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feist",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fella",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fells",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "felty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femmy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femur",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fence",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fends",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fendy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fenis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fenks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fenny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fents",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feods",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feoff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feral",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feres",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feria",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fermi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferox",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ferry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fesse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "festa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fests",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "festy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feted",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fetwa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feuar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feuds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feued",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fever",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fewer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feyed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feyer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "feyly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fezes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fezzy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiars",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiber",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fibre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fibro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fices",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiche",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fichu",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ficin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ficos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ficta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ficus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fides",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fidge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fidos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fidus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiefs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "field",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiend",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fient",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiere",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fieri",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiery",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiest",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fifed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fifer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fifes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fifis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fifth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fifty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "figgy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fight",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "figos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fikes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "files",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filii",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fille",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fillo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fills",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filmi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "films",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filmy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "filum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "final",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finca",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fined",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fines",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "finos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiord",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiqhs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fique",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fired",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fires",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firma",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firni",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "first",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "firth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiscs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fisho",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fishy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fisks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fists",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fisty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fitch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fitly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fitna",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fitte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fitts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fiver",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fives",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fixed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fixer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fixes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fixie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fixit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fizzy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fjeld",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fjord",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flabs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flack",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flaff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flags",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flail",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flair",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flake",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flaks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flaky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flame",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flamm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flams",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flamy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flane",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flank",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flaps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flare",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flary",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flash",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flask",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flava",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flawn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flaws",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flawy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flaxy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleek",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flees",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flegs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flesh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleur",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flews",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flexi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flexo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fleys",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flick",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flics",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flied",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flier",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flimp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flims",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fling",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flint",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flips",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flirs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flirt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flisk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flite",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flitt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "float",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flobs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flock",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flocs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "floes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flogs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flong",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flood",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "floor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flops",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flora",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flors",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flory",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flosh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "floss",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flota",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flote",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flour",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flout",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flown",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flowy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flubs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flued",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flues",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluke",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flume",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flump",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flung",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flunk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flurr",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flush",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flute",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fluyt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flyby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flyer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flyin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flype",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "flyte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fnarr",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foals",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foams",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foamy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "focal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "focus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foehn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fogey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foggy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fogie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fogle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fogos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fogou",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fohns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foids",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foins",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foist",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foley",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "folly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fomes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fonda",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fonds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fondu",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fones",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fonio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fonly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fonts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foods",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foody",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fools",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foots",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "footy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foram",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foray",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forbs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "force",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fordo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fords",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fores",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forgo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forma",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forza",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "forze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fossa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fosse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fouat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fouds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fouer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fouet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foule",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fouls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "found",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fount",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fours",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fouth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fovea",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fowls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fowth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foxed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foxes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foxie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foyer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foyle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "foyne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frabs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frack",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fract",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frags",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frail",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fraim",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frais",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frame",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "franc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frank",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frape",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fraps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frass",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frati",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fraud",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fraus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "freak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "freed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "freer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frees",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "freet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "freit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fremd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frena",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "freon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frere",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fresh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frets",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "friar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fribs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fried",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frier",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fries",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frigs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frill",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frise",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frisk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frist",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frita",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frite",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frith",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fritt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fritz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frize",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frizz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frock",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "froes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frogs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fromm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frond",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "front",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "froom",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frorn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frory",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frosh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frost",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "froth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frown",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frowy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "froyo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "froze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frugs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fruit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frump",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frush",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "frust",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fryer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fubar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fubby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fubsy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fucks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fucus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuddy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fudge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fudgy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuels",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuero",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuffs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuffy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuggy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugue",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fugus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fujis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fulla",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fulls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fully",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fulth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fulwa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fumed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fumer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fumes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fumet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funda",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fundi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fundo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fundy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fungi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fungo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fungs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funsy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "funts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fural",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furca",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furrs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "furzy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fused",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fusee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fusel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fusil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fusks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fussy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fusts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fusty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "futon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuzed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuzee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuzes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuzil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fuzzy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fyces",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fyked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fykes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fyles",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fyrds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "fytte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "femboy",
+        "length": 6,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "fr",
+        "length": 2,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "fiji",
+        "length": 4,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "finland",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "france",
+        "length": 6,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "freetown",
+        "length": 8,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "funafuti",
+        "length": 8,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "football",
+        "length": 8,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "fencing",
+        "length": 7,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "formula 1",
+        "length": 9,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "freestyle wrestling",
+        "length": 19,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "f1",
+        "length": 2,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "fox",
+        "length": 3,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "flamingo",
+        "length": 8,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "falcon",
+        "length": 6,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "frog",
+        "length": 4,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "fly",
+        "length": 3,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "flatfish",
+        "length": 8,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "flounder",
+        "length": 8,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "flamingo",
+        "length": 8,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "falcon",
+        "length": 6,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "finch",
+        "length": 5,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "firefox",
+        "length": 7,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "figma",
+        "length": 5,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "firebase",
+        "length": 8,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "fsharp",
+        "length": 6,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "fortran",
+        "length": 7,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "fortnite",
+        "length": 8,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "final fantasy",
+        "length": 13,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "fallout 4",
+        "length": 9,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "fifa",
+        "length": 4,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "forza horizon",
+        "length": 13,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "far cry",
+        "length": 7,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "frag punk",
+        "length": 9,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "fall guys",
+        "length": 9,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "fruit ninja",
+        "length": 11,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "final fantasy xvi",
+        "length": 17,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "fortnite",
+        "length": 8,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "fallout 4",
+        "length": 9,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "forza horizon",
+        "length": 13,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "frag punk",
+        "length": 9,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "far cry",
+        "length": 7,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "fall guys",
+        "length": 9,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "fifa",
+        "length": 4,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "fortnite",
+        "length": 8,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "fruit ninja",
+        "length": 11,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "fifa mobile",
+        "length": 11,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "fall guys",
+        "length": 9,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "fortnite",
+        "length": 8,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "final fantasy",
+        "length": 13,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "fifa",
+        "length": 4,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "forza horizon",
+        "length": 13,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "final fantasy vii remake",
+        "length": 24,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "final fantasy xvi",
+        "length": 17,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "facebook",
+        "length": 8,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "flipkart",
+        "length": 8,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "ford",
+        "length": 4,
+        "category": "companies",
+        "language": "en"
     }
-}
+]

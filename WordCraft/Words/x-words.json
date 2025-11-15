@@ -1,12 +1,1 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WordCraft.Words
-{
-    class a_words
-    {
-    }
-}
+﻿[{"word":"xebec","length":5,"category":"wordle","language":"en"},{"word":"xenia","length":5,"category":"wordle","language":"en"},{"word":"xenic","length":5,"category":"wordle","language":"en"},{"word":"xenon","length":5,"category":"wordle","language":"en"},{"word":"xeric","length":5,"category":"wordle","language":"en"},{"word":"xerox","length":5,"category":"wordle","language":"en"},{"word":"xerus","length":5,"category":"wordle","language":"en"},{"word":"xoana","length":5,"category":"wordle","language":"en"},{"word":"xolos","length":5,"category":"wordle","language":"en"},{"word":"xrays","length":5,"category":"wordle","language":"en"},{"word":"xviii","length":5,"category":"wordle","language":"en"},{"word":"xylan","length":5,"category":"wordle","language":"en"},{"word":"xylem","length":5,"category":"wordle","language":"en"},{"word":"xylic","length":5,"category":"wordle","language":"en"},{"word":"xylol","length":5,"category":"wordle","language":"en"},{"word":"xylyl","length":5,"category":"wordle","language":"en"},{"word":"xysti","length":5,"category":"wordle","language":"en"},{"word":"xysts","length":5,"category":"wordle","language":"en"},{"word":"xcode","length":5,"category":"softwares","language":"en"},{"word":"xampp","length":5,"category":"softwares","language":"en"},{"word":"xiaomi","length":6,"category":"companies","language":"en"}]

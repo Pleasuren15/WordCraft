@@ -1,12 +1,2174 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WordCraft.Words
-{
-    class a_words
+﻿[
     {
+        "word": "eager",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eagle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eagly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eagre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ealed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eales",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eaned",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eards",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eared",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "earls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "early",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "earns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "earnt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "earst",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "earth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eased",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "easel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "easer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eases",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "easle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "easts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eaten",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eater",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eathe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eatin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eaved",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eaver",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eaves",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebank",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebbed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebbet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebena",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebike",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebony",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ebook",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ecads",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ecard",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ecash",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eched",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eches",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "echos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ecigs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eclat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ecole",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ecrus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edema",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edged",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edger",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edges",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edict",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edify",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "educe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "educt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eejit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eensy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eerie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eeven",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eever",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eevns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "effed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "effer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "efits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egads",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egest",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eggar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egged",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egger",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egmas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "egret",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ehing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eider",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eidos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eight",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eigne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eiked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eikon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eilds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eiron",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eisel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eject",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ejido",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ekdam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eking",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ekkas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elain",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eland",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elbow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elchi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elder",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eldin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elect",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eleet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elegy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elemi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elfed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elfin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eliad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elide",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elint",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elite",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elmen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eloge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elogy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eloin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elope",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elops",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elpee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elsin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elude",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elute",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elvan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elven",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elver",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "elves",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emacs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "email",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embay",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ember",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embog",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embox",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "embus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emcee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emeer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emend",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emerg",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emery",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emeus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emics",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emirs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emmas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emmer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emmet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emmew",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emmys",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emoji",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emong",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emote",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emove",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "empts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "empty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emule",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emure",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emyde",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "emyds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enact",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enarm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ended",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ender",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "endew",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "endow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "endue",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enema",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enemy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enews",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enfix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eniac",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enjoy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enlit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enmew",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ennog",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ennui",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enoki",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enols",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enorm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enrol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ensew",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ensky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ensue",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enter",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "entia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "entre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "entry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enure",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enurn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "envoi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "envoy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "enzym",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eolid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eorls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eosin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epact",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epees",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epena",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ephah",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ephas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ephod",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ephor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epics",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epoch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epopt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epoxy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eppie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "epris",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "equal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eques",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "equid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "equip",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erase",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erbia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erect",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erevs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ergon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ergos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ergot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erhus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erica",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erick",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erics",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ering",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erned",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ernes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erose",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erred",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "error",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eruct",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erugo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erupt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eruvs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "erven",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ervil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "escar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "escot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "esile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eskar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "esker",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "esnes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "esrog",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "essay",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "esses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ester",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "estoc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "estop",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "estro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etage",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etape",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etens",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ethal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ether",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ethic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ethne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ethos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ethyl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etics",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etnas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etrog",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ettin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ettle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etude",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etuis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etwee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "etyma",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eughs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "euked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eupad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "euros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eusol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evade",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evegs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evens",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "event",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evert",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "every",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evets",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evhoe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evict",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evite",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evohe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "evoke",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ewers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ewest",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ewhow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ewked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exact",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exalt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exams",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "excel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exeat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "execs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exeem",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exeme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exert",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exfil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exier",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exist",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exite",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exome",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "expat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "expel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "expos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "extol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "extra",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exude",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exuls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exult",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "exurb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyass",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyers",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eying",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyots",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyras",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyres",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyrie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "eyrir",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ezine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "edge",
+        "length": 4,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "edging",
+        "length": 6,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "ecuador",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "egypt",
+        "length": 5,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "el salvador",
+        "length": 11,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "equatorial guinea",
+        "length": 17,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "eritrea",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "estonia",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "eswatini",
+        "length": 8,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "ethiopia",
+        "length": 8,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "east jerusalem",
+        "length": 14,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "equestrian",
+        "length": 10,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "esports",
+        "length": 7,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "elephant",
+        "length": 8,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "eagle",
+        "length": 5,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "eel",
+        "length": 3,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "eagle",
+        "length": 5,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "emu",
+        "length": 3,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "edge",
+        "length": 4,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "excel",
+        "length": 5,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "eclipse",
+        "length": 7,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "emacs",
+        "length": 5,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "elixir",
+        "length": 6,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "elixir",
+        "length": 6,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "escape from tarkov",
+        "length": 18,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "elden ring",
+        "length": 10,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "escape from tarkov",
+        "length": 18,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "elden ring",
+        "length": 10,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "elden ring",
+        "length": 10,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "ea",
+        "length": 2,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "ea games",
+        "length": 8,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "electronic arts",
+        "length": 15,
+        "category": "companies",
+        "language": "en"
     }
-}
+]

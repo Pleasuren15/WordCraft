@@ -1,12 +1,6392 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WordCraft.Words
-{
-    class a_words
+﻿[
     {
+        "word": "caaed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cabal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cabas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cabby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caber",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cabin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cable",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cabob",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caboc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cabre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cacao",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cacas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cache",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cacks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cacky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cacti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caddy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cades",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadgy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cadre",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caeca",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caese",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cafes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caffe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caffs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caged",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cager",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cages",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cagey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cagot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cahow",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caids",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cains",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caird",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cairn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cajon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cajun",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cakes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cakey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calfs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calif",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calla",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calmy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calpa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "calyx",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caman",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "camas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "camel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cameo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cames",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "camis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "camos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "campi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "campo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "camps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "campy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "camus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cando",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "candy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caned",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caneh",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caner",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cangs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canna",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canoe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canso",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canst",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canto",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cants",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "canty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capax",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caped",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caper",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caphs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capiz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caple",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capri",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "capul",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caput",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carbo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carbs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cardi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cards",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cardy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cared",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cares",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caret",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cargo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carob",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carom",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caron",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carpe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carpi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carrs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "carvy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "casas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "casco",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cased",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caser",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cases",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "casks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "casky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caste",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "casts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "casus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "catch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cater",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cates",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "catty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cauda",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cauks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cauld",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caulk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cauls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caums",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caups",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cauri",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "causa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cause",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cavas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caved",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cavel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caver",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caves",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cavie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cavil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cavus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cawed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cawks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "caxon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cease",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceaze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cebid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cecal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cecum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cedar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceded",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceder",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cedes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cedis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceiba",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceili",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "celeb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cella",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "celli",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cello",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cells",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "celly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "celom",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "celts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cense",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cento",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cents",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "centu",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceorl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cepes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cerci",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cered",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceres",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cerge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceria",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceric",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cerne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceroc",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ceros",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "certs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "certy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cesse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cesta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cesti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cetes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cetyl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cezve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chace",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chack",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaco",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chado",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chads",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chafe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chain",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chair",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chais",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chalk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chals",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "champ",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chams",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chana",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chang",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chank",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chant",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chape",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chapt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chara",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chard",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chare",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chark",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "charm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "charr",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chars",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chart",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chary",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chase",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chasm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chava",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chave",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chavs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chawk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chawl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaws",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chaya",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheap",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheba",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "check",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chedi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheeb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheek",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheep",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chefs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheka",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chela",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chelp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chemo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chems",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chere",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chert",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chess",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chest",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cheth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chevy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chews",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chewy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiao",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chias",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiba",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chibs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chica",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chich",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chick",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chico",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chics",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chide",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chief",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiko",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "child",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chile",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chili",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chill",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chimb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chime",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chimo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chimp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "china",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ching",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chink",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chino",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chins",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chips",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chirk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chirl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chirm",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chirp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chirr",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chirt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiru",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chiva",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chive",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chivs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chivy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chizz",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chock",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choco",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chocs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chode",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chogs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choir",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choke",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choko",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chola",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choli",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cholo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chomp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choof",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chook",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choom",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chops",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chord",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chose",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choss",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chota",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chott",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chout",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "choux",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chowk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chubs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chuck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chufa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chuff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chugs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chump",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chums",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chunk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "churl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "churn",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "churr",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chuse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chute",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chuts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chyle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chyme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "chynd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cibol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cided",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cider",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cides",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ciels",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cigar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ciggy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cilia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cills",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cimar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cimex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cinch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cinct",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cines",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cinqs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cions",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cippi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "circa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "circs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cires",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cirls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cirri",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cisco",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cissy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cists",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cital",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cited",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "citee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "citer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cites",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cives",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "civet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "civic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "civie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "civil",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "civvy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clach",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clack",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clade",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clads",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "claes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clags",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "claim",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clair",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clame",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clamp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clams",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clang",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clank",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "claps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clapt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "claro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clart",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clary",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clash",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clasp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "class",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clast",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "claut",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clave",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clavi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "claws",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clean",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clear",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleek",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleep",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clefs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clegs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleik",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clems",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clepe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clept",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clerk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cleve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clews",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "click",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clied",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clies",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cliff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clift",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "climb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clime",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cline",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cling",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clink",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clint",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clipe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clips",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clipt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloam",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clock",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clods",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloff",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clogs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloke",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clomb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clomp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clonk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloop",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clops",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "close",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clote",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clots",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloud",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clour",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clous",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clout",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clove",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clown",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloye",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloys",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cloze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clubs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cluck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clued",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clues",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cluey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clump",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clung",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clunk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "clype",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cnida",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coach",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coact",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coady",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coala",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coals",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coaly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coapt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coarb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coast",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coati",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coats",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cobbs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cobby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cobia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coble",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cobot",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cobra",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cobza",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocci",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocco",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocoa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cocus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "codas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "codec",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coded",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coden",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coder",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "codes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "codex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "codon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coeds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coffs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cogie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cogon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cogue",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cohab",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cohen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cohoe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cohog",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cohos",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coifs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coign",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coils",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coins",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coirs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coked",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cokes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cokey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coled",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coles",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coley",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colog",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "color",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "colza",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "combe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "combi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "combo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "combs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comfy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comma",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "commo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "commy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "compo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "compt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "comus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "condo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coned",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cones",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coney",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "confs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conga",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conge",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "congo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conte",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conto",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "conus",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "convo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coofs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cools",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coomb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coomy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coops",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coopt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coost",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coots",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copay",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coped",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coper",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copha",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coppy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copra",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "copsy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coqui",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coral",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coram",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corbe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corda",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cords",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cored",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cores",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corgi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coria",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corky",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corni",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corno",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cornu",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "corso",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cosec",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cosed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coses",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coset",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cosey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cosie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "costa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coste",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "costs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cotan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cotch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coted",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cotes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coths",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cotta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cotts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "couch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coude",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cough",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "could",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "count",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coupe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coups",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "courb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "courd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coure",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cours",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "court",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "couta",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "couth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coved",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coven",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cover",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coves",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "covet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "covey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "covin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowan",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cower",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cowry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coxae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coxal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coxed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coxes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coxib",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coyau",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coyed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coyer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coyly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "coypu",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cozed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cozen",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cozes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cozey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cozie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craal",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crabs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crack",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crags",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craig",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crake",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crame",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cramp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crams",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crane",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crank",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crape",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crapy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crare",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crash",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crass",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crate",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crave",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crawl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craws",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crays",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "craze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crazy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cream",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "credo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creek",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creep",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crees",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crein",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crema",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creme",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crems",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crena",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crepe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "creps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crept",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crepy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cress",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crest",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crewe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crews",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crias",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cribo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cribs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crick",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cried",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crier",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cries",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crime",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crimp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crims",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crine",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crink",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crins",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crios",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cripe",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crips",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crise",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crisp",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "criss",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crith",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "croak",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "croci",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crock",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crocs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "croft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crogs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cromb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crome",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crone",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cronk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crons",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crony",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crook",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crool",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "croon",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crops",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crore",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cross",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crost",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "croup",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crout",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crowd",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crowl",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crown",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crows",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "croze",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruck",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crude",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crudo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crudy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crues",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruft",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crumb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crump",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crunk",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruor",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crura",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crush",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crust",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crusy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cruve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crwth",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cryer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cryne",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "crypt",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "ctene",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cubby",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cubeb",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cubed",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuber",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cubes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cubic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cubit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cucks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cudda",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuddy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cueca",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuffo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuffs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuifs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuing",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuish",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuits",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cukes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culex",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cully",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culms",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culpa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culti",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cults",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "culty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cumec",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cumin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cundy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cunei",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cunit",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cunny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cunts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cupel",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cupid",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuppa",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuppy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cupro",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curat",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curbs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curds",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curdy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cured",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curer",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cures",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curet",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curfs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curia",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curio",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curli",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curls",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curly",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curns",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curny",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "currs",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curry",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curse",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cursi",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curst",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curve",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "curvy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cusec",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cushy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cusks",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cusps",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuspy",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cusso",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cusum",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuter",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutey",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutie",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutin",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutis",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutto",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutty",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cutup",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuvee",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cuzes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cwtch",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cyano",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cyans",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cyber",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cycad",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cycas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cycle",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cyclo",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cyder",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cylix",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cymae",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cymar",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cymas",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cymes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cymol",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cynic",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cysts",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cytes",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cyton",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "czars",
+        "length": 5,
+        "category": "wordle",
+        "language": "en"
+    },
+    {
+        "word": "cooked",
+        "length": 6,
+        "category": "brainrot",
+        "language": "en"
+    },
+    {
+        "word": "cabo verde",
+        "length": 10,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "cambodia",
+        "length": 8,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "cameroon",
+        "length": 8,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "canada",
+        "length": 6,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "central african republic",
+        "length": 24,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "chad",
+        "length": 4,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "chile",
+        "length": 5,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "china",
+        "length": 5,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "colombia",
+        "length": 8,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "comoros",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "congo",
+        "length": 5,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "costa rica",
+        "length": 10,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "côte d'ivoire",
+        "length": 14,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "croatia",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "cuba",
+        "length": 4,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "cyprus",
+        "length": 6,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "czechia",
+        "length": 7,
+        "category": "countries",
+        "language": "en"
+    },
+    {
+        "word": "canberra",
+        "length": 8,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "copenhagen",
+        "length": 10,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "cairo",
+        "length": 5,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "conakry",
+        "length": 7,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "chișinău",
+        "length": 10,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "castries",
+        "length": 8,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "cape town",
+        "length": 9,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "colombo",
+        "length": 7,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "caracas",
+        "length": 7,
+        "category": "capitals_of_countries",
+        "language": "en"
+    },
+    {
+        "word": "cricket",
+        "length": 7,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "cycling",
+        "length": 7,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "canoeing",
+        "length": 8,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "cheerleading",
+        "length": 12,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "chess",
+        "length": 5,
+        "category": "sports",
+        "language": "en"
+    },
+    {
+        "word": "cheetah",
+        "length": 7,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "camel",
+        "length": 5,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "cow",
+        "length": 3,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "cat",
+        "length": 3,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "chimpanzee",
+        "length": 10,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "crow",
+        "length": 4,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "chicken",
+        "length": 7,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "crocodile",
+        "length": 9,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "crab",
+        "length": 4,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "clownfish",
+        "length": 9,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "carp",
+        "length": 4,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "catfish",
+        "length": 7,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "crayfish",
+        "length": 8,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "coral",
+        "length": 5,
+        "category": "animals",
+        "language": "en"
+    },
+    {
+        "word": "crow",
+        "length": 4,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "canary",
+        "length": 6,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "cockatoo",
+        "length": 8,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "crane",
+        "length": 5,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "cardinal",
+        "length": 8,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "cuckoo",
+        "length": 6,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "cassowary",
+        "length": 9,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "chicken",
+        "length": 7,
+        "category": "birds",
+        "language": "en"
+    },
+    {
+        "word": "chrome",
+        "length": 6,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "canva",
+        "length": 5,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "capcut",
+        "length": 6,
+        "category": "softwares",
+        "language": "en"
+    },
+    {
+        "word": "c",
+        "length": 1,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "cpp",
+        "length": 3,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "csharp",
+        "length": 6,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "cobol",
+        "length": 5,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "clojure",
+        "length": 7,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "css",
+        "length": 3,
+        "category": "programming_languages",
+        "language": "en"
+    },
+    {
+        "word": "cs2",
+        "length": 3,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "cs:go",
+        "length": 5,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "call of duty",
+        "length": 12,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "cod",
+        "length": 3,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "counter-strike",
+        "length": 14,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "cyberpunk 2077",
+        "length": 14,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "candy crush",
+        "length": 11,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "clash of clans",
+        "length": 14,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "coc",
+        "length": 3,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "call of duty mobile",
+        "length": 19,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "codm",
+        "length": 4,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "cricket 2022",
+        "length": 12,
+        "category": "games",
+        "language": "en"
+    },
+    {
+        "word": "cs2",
+        "length": 3,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "cs:go",
+        "length": 5,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "call of duty",
+        "length": 12,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "cod",
+        "length": 3,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "counter-strike",
+        "length": 14,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "cyberpunk 2077",
+        "length": 14,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "civilization",
+        "length": 12,
+        "category": "pc_games",
+        "language": "en"
+    },
+    {
+        "word": "candy crush",
+        "length": 11,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "clash of clans",
+        "length": 14,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "coc",
+        "length": 3,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "call of duty mobile",
+        "length": 19,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "codm",
+        "length": 4,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "call of duty: warzone mobile",
+        "length": 28,
+        "category": "mobile_games",
+        "language": "en"
+    },
+    {
+        "word": "call of duty",
+        "length": 12,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "cod",
+        "length": 3,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "cyberpunk 2077",
+        "length": 14,
+        "category": "console_games",
+        "language": "en"
+    },
+    {
+        "word": "cisco",
+        "length": 5,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "capgemini",
+        "length": 9,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "cognizant",
+        "length": 9,
+        "category": "companies",
+        "language": "en"
+    },
+    {
+        "word": "coca cola",
+        "length": 9,
+        "category": "companies",
+        "language": "en"
     }
-}
+]
