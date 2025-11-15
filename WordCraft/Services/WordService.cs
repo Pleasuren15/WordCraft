@@ -4,6 +4,7 @@ using WordCraft.Models.Enums;
 
 namespace WordCraft.Services;
 
+/// <inheritdoc />
 public class WordService : IWordService
 {
     public IEnumerable<Word> GetRandomWords(
@@ -19,7 +20,7 @@ public class WordService : IWordService
         words = category == Category.All ? words : words.Where(word => word.Category == category);
         words = words.Where(word => word.Length <= wordLength).Take(numberOfWords);
         words = wordCase == WordCase.Upper ? words.Select(word => { word.FullWord = word.FullWord.ToUpper(); return word; }) :
-                                        words.Select(word => { word.FullWord = word.FullWord.ToLower(); return word; });
+            words.Select(word => { word.FullWord = word.FullWord.ToLower(); return word; });
 
         return words;
     }

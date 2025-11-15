@@ -3,6 +3,9 @@ using WordCraft.Models.Enums;
 
 namespace WordCraft.Services
 {
+    /// <summary>
+    /// Service interface for fetching random words based on specified criteria.
+    /// </summary>
     public interface IWordService
     {
         IEnumerable<Word> GetRandomWords(
