@@ -1,1 +1,644 @@
-﻿[{"word":"qadis","length":5,"category":"wordle","language":"en"},{"word":"qaids","length":5,"category":"wordle","language":"en"},{"word":"qajaq","length":5,"category":"wordle","language":"en"},{"word":"qanat","length":5,"category":"wordle","language":"en"},{"word":"qapik","length":5,"category":"wordle","language":"en"},{"word":"qibla","length":5,"category":"wordle","language":"en"},{"word":"qilas","length":5,"category":"wordle","language":"en"},{"word":"qipao","length":5,"category":"wordle","language":"en"},{"word":"qophs","length":5,"category":"wordle","language":"en"},{"word":"qorma","length":5,"category":"wordle","language":"en"},{"word":"quabs","length":5,"category":"wordle","language":"en"},{"word":"quack","length":5,"category":"wordle","language":"en"},{"word":"quads","length":5,"category":"wordle","language":"en"},{"word":"quaff","length":5,"category":"wordle","language":"en"},{"word":"quags","length":5,"category":"wordle","language":"en"},{"word":"quail","length":5,"category":"wordle","language":"en"},{"word":"quair","length":5,"category":"wordle","language":"en"},{"word":"quais","length":5,"category":"wordle","language":"en"},{"word":"quake","length":5,"category":"wordle","language":"en"},{"word":"quaky","length":5,"category":"wordle","language":"en"},{"word":"quale","length":5,"category":"wordle","language":"en"},{"word":"qualm","length":5,"category":"wordle","language":"en"},{"word":"qualy","length":5,"category":"wordle","language":"en"},{"word":"quank","length":5,"category":"wordle","language":"en"},{"word":"quant","length":5,"category":"wordle","language":"en"},{"word":"quare","length":5,"category":"wordle","language":"en"},{"word":"quark","length":5,"category":"wordle","language":"en"},{"word":"quarl","length":5,"category":"wordle","language":"en"},{"word":"quart","length":5,"category":"wordle","language":"en"},{"word":"quash","length":5,"category":"wordle","language":"en"},{"word":"quasi","length":5,"category":"wordle","language":"en"},{"word":"quass","length":5,"category":"wordle","language":"en"},{"word":"quate","length":5,"category":"wordle","language":"en"},{"word":"quats","length":5,"category":"wordle","language":"en"},{"word":"quawk","length":5,"category":"wordle","language":"en"},{"word":"quaws","length":5,"category":"wordle","language":"en"},{"word":"quayd","length":5,"category":"wordle","language":"en"},{"word":"quays","length":5,"category":"wordle","language":"en"},{"word":"qubit","length":5,"category":"wordle","language":"en"},{"word":"quean","length":5,"category":"wordle","language":"en"},{"word":"queck","length":5,"category":"wordle","language":"en"},{"word":"queek","length":5,"category":"wordle","language":"en"},{"word":"queem","length":5,"category":"wordle","language":"en"},{"word":"queen","length":5,"category":"wordle","language":"en"},{"word":"queer","length":5,"category":"wordle","language":"en"},{"word":"quell","length":5,"category":"wordle","language":"en"},{"word":"queme","length":5,"category":"wordle","language":"en"},{"word":"quena","length":5,"category":"wordle","language":"en"},{"word":"quern","length":5,"category":"wordle","language":"en"},{"word":"query","length":5,"category":"wordle","language":"en"},{"word":"queso","length":5,"category":"wordle","language":"en"},{"word":"quest","length":5,"category":"wordle","language":"en"},{"word":"quete","length":5,"category":"wordle","language":"en"},{"word":"queue","length":5,"category":"wordle","language":"en"},{"word":"queyn","length":5,"category":"wordle","language":"en"},{"word":"queys","length":5,"category":"wordle","language":"en"},{"word":"queyu","length":5,"category":"wordle","language":"en"},{"word":"quibs","length":5,"category":"wordle","language":"en"},{"word":"quich","length":5,"category":"wordle","language":"en"},{"word":"quick","length":5,"category":"wordle","language":"en"},{"word":"quids","length":5,"category":"wordle","language":"en"},{"word":"quies","length":5,"category":"wordle","language":"en"},{"word":"quiet","length":5,"category":"wordle","language":"en"},{"word":"quiff","length":5,"category":"wordle","language":"en"},{"word":"quila","length":5,"category":"wordle","language":"en"},{"word":"quill","length":5,"category":"wordle","language":"en"},{"word":"quilt","length":5,"category":"wordle","language":"en"},{"word":"quims","length":5,"category":"wordle","language":"en"},{"word":"quina","length":5,"category":"wordle","language":"en"},{"word":"quine","length":5,"category":"wordle","language":"en"},{"word":"quink","length":5,"category":"wordle","language":"en"},{"word":"quino","length":5,"category":"wordle","language":"en"},{"word":"quins","length":5,"category":"wordle","language":"en"},{"word":"quint","length":5,"category":"wordle","language":"en"},{"word":"quipo","length":5,"category":"wordle","language":"en"},{"word":"quips","length":5,"category":"wordle","language":"en"},{"word":"quipu","length":5,"category":"wordle","language":"en"},{"word":"quire","length":5,"category":"wordle","language":"en"},{"word":"quirk","length":5,"category":"wordle","language":"en"},{"word":"quirl","length":5,"category":"wordle","language":"en"},{"word":"quirt","length":5,"category":"wordle","language":"en"},{"word":"quist","length":5,"category":"wordle","language":"en"},{"word":"quite","length":5,"category":"wordle","language":"en"},{"word":"quits","length":5,"category":"wordle","language":"en"},{"word":"quoad","length":5,"category":"wordle","language":"en"},{"word":"quods","length":5,"category":"wordle","language":"en"},{"word":"quoif","length":5,"category":"wordle","language":"en"},{"word":"quoin","length":5,"category":"wordle","language":"en"},{"word":"quois","length":5,"category":"wordle","language":"en"},{"word":"quoit","length":5,"category":"wordle","language":"en"},{"word":"quoll","length":5,"category":"wordle","language":"en"},{"word":"quonk","length":5,"category":"wordle","language":"en"},{"word":"quops","length":5,"category":"wordle","language":"en"},{"word":"quork","length":5,"category":"wordle","language":"en"},{"word":"quorl","length":5,"category":"wordle","language":"en"},{"word":"quota","length":5,"category":"wordle","language":"en"},{"word":"quote","length":5,"category":"wordle","language":"en"},{"word":"quoth","length":5,"category":"wordle","language":"en"},{"word":"quouk","length":5,"category":"wordle","language":"en"},{"word":"quoys","length":5,"category":"wordle","language":"en"},{"word":"quran","length":5,"category":"wordle","language":"en"},{"word":"qursh","length":5,"category":"wordle","language":"en"},{"word":"quyte","length":5,"category":"wordle","language":"en"},{"word":"qatar","length":5,"category":"countries","language":"en"},{"word":"quito","length":5,"category":"capitals_of_countries","language":"en"},{"word":"quail","length":5,"category":"birds","language":"en"},{"word":"qualcomm","length":8,"category":"companies","language":"en"}]
+﻿[
+  {
+    "word": "qadis",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qaids",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qajaq",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qanat",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qapik",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qibla",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qilas",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qipao",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qophs",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qorma",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quabs",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quack",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quads",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quaff",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quags",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quail",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quair",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quais",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quake",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quaky",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quale",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qualm",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qualy",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quank",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quant",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quare",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quark",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quarl",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quart",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quash",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quasi",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quass",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quate",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quats",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quawk",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quaws",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quayd",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quays",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qubit",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quean",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queck",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queek",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queem",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queen",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queer",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quell",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queme",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quena",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quern",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "query",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queso",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quest",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quete",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queue",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queyn",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queys",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "queyu",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quibs",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quich",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quick",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quids",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quies",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quiet",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quiff",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quila",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quill",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quilt",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quims",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quina",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quine",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quink",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quino",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quins",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quint",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quipo",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quips",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quipu",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quire",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quirk",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quirl",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quirt",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quist",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quite",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quits",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoad",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quods",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoif",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoin",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quois",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoit",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoll",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quonk",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quops",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quork",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quorl",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quota",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quote",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoth",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quouk",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quoys",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quran",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qursh",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "quyte",
+    "length": 5,
+    "category": "wordle",
+    "language": "en"
+  },
+  {
+    "word": "qatar",
+    "length": 5,
+    "category": "countries",
+    "language": "en"
+  },
+  {
+    "word": "quito",
+    "length": 5,
+    "category": "capitals_of_countries",
+    "language": "en"
+  },
+  {
+    "word": "quail",
+    "length": 5,
+    "category": "birds",
+    "language": "en"
+  },
+  {
+    "word": "qualcomm",
+    "length": 8,
+    "category": "companies",
+    "language": "en"
+  }
+]
